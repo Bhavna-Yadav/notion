@@ -1,0 +1,191 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "block",
+            "id": "8d0efb64-56a7-415a-b074-b5b91ce1058d",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1386e4c7-a7a9-4edb-bc5f-6a141be6f68b"
+            },
+            "created_time": "2023-12-08T07:14:00.000Z",
+            "last_edited_time": "2023-12-08T07:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "has_children": false,
+            "archived": false,
+            "type": "callout",
+            "callout": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "“Success is the sum of small efforts, repeated day in and day out.”",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": true,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "“Success is the sum of small efforts, repeated day in and day out.”",
+                        "href": null
+                    }
+                ],
+                "icon": {
+                    "type": "emoji",
+                    "emoji": "💡"
+                },
+                "color": "gray_background"
+            }
+        },
+        {
+            "object": "block",
+            "id": "2fe5b49a-f140-4fab-973e-b5b93dff1fed",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1386e4c7-a7a9-4edb-bc5f-6a141be6f68b"
+            },
+            "created_time": "2023-12-08T07:21:00.000Z",
+            "last_edited_time": "2023-12-08T12:55:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "has_children": true,
+            "archived": false,
+            "type": "toggle",
+            "toggle": {
+                "rich_text": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "🧭Quick Info",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "🧭Quick Info",
+                        "href": null
+                    }
+                ],
+                "color": "green"
+            }
+        },
+        {
+            "object": "block",
+            "id": "56beadb9-919e-48fb-8e4b-3a9ac28f0935",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1386e4c7-a7a9-4edb-bc5f-6a141be6f68b"
+            },
+            "created_time": "2023-12-08T07:18:00.000Z",
+            "last_edited_time": "2023-12-08T07:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "has_children": true,
+            "archived": false,
+            "type": "column_list",
+            "column_list": {}
+        },
+        {
+            "object": "block",
+            "id": "c9766219-34c4-4f52-9927-b445e0a5f4cf",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1386e4c7-a7a9-4edb-bc5f-6a141be6f68b"
+            },
+            "created_time": "2023-12-08T07:18:00.000Z",
+            "last_edited_time": "2023-12-08T07:18:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "has_children": true,
+            "archived": false,
+            "type": "column_list",
+            "column_list": {}
+        },
+        {
+            "object": "block",
+            "id": "f8de3cc2-f6ee-4803-b398-71880b5d3b57",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1386e4c7-a7a9-4edb-bc5f-6a141be6f68b"
+            },
+            "created_time": "2023-12-08T07:19:00.000Z",
+            "last_edited_time": "2023-12-08T07:19:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "has_children": false,
+            "archived": false,
+            "type": "divider",
+            "divider": {}
+        },
+        {
+            "object": "block",
+            "id": "2efe453c-9424-4b00-ab2c-6b7365ed60c0",
+            "parent": {
+                "type": "page_id",
+                "page_id": "1386e4c7-a7a9-4edb-bc5f-6a141be6f68b"
+            },
+            "created_time": "2023-12-12T08:23:00.000Z",
+            "last_edited_time": "2023-12-12T08:23:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "2b9b1766-bfc5-4c63-994a-4be730f7787a"
+            },
+            "has_children": false,
+            "archived": false,
+            "type": "paragraph",
+            "paragraph": {
+                "rich_text": [],
+                "color": "default"
+            }
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "block",
+    "block": {},
+    "request_id": "a634c45b-3f55-4ce1-98ae-7b9664eb5a2e"
+}
